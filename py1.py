@@ -19,4 +19,6 @@ s1 = input("请输入email: ")
 print(s1)
 print(s1)
 a = emails(s1)
+
+print(a)
 print(a)
