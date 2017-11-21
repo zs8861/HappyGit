@@ -5,6 +5,7 @@ import re         #正则表达式(regular expression)模块
 #[a-zA-Z]      匹配大小写字母
 #\@    a\@b     a@b   (字符转义)
 #\.    a\.b     a.b   (字符转义)
+#这是个测试文件
 
 def emails(e):
     if len(e)>= 5:
